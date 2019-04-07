@@ -3,3 +3,4 @@ GF 유저 정보를 기반하여 자동으로 칩셋 조합기용 .gfci 파일�
 
 A program that generates a .gfci file for chipset combinators automatically based on GF user information
 
+https://gall.dcinside.com/mgallery/board/view/?id=micateam&no=883866
